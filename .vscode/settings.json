@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "future": "c",
+        "system_error": "c"
+    }
+}
